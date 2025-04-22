@@ -1,2 +1,2 @@
-# Aleksander Owczarek
+# Aleksander Luke Owczarek
 My personal academic website
