@@ -1,2 +1,2 @@
-# outward-display
+# Aleksander Owczarek
 My personal academic website
