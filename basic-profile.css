@@ -216,3 +216,4 @@ h3 {
     width: 980px;
   }
 }
+img { max-width: 100%; height: auto; }
