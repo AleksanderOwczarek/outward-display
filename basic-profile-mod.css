@@ -120,6 +120,7 @@ h3 {
 #sidebar li a {
   color: #4a148c;
   font-size: 1.2em;
+    font-weight: bold;
 }
 
 #sidebar h2 {
